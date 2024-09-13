@@ -1,6 +1,6 @@
 # Masala Marvel Restaurant Website
 
-Welcome to the official repository for the Masala Marvel restaurant website project. This project is a culmination of efforts in HTML, CSS, and JavaScript to create an engaging and informative online platform for an imaginary restaurant named "Masala Marvel."
+Welcome to the project repository for the 'Masala Marvel' restaurant website project. This project is a culmination of efforts in HTML, CSS, and JavaScript to create an engaging and informative online platform for an imaginary restaurant named "Masala Marvel."
 
 ## Project Overview
 
@@ -21,9 +21,6 @@ Our successful implementation affirms that we have achieved our objectives. The 
 - Online Reservations: Users can book tables and explore available dining packages.
 - Visual Feast in the Menu: Allowing users to preview the restaurant's atmosphere and signature dishes.
 
-## How to Use
-
-To explore the Masala Marvel website, simply visit [masalamarvel.com](https://www.masalamarvel.com).
 
 
 Feel free to contribute or provide feedback!
