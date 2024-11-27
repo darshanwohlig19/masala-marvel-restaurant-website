@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
+:root{
+     --primary-color: #800000;
+     --secondary-color: #FF6A00;
+}
+html{
+     scroll-behavior: smooth;
+}
+*{
+     margin: 0;
+     padding: 0;
+}
+a{
+     text-decoration: none;
+}
+body {
+     margin: 0;
+     font-family: 'Sorts Mill Goudy', serif;
+     background-color: var(--primary-color);
+     overflow-x: hidden;
+}
