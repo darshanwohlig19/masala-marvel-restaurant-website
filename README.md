@@ -1,26 +1,67 @@
 # Masala Marvel Restaurant Website
 
-Welcome to the project repository for the 'Masala Marvel' restaurant website project. This project is a culmination of efforts in HTML, CSS, and JavaScript to create an engaging and informative online platform for an imaginary restaurant named "Masala Marvel."
+Welcome to the **Masala Marvel** project repository! This is a dynamic and visually engaging website created using **Vue.js** to showcase the vibrant essence of Indian cuisine through an immersive online platform.
+
+---
 
 ## Project Overview
+Masala Marvel is a responsive, user-friendly restaurant website designed to:
+- Highlight the richness of Indian cuisine.
+- Provide a seamless user experience for browsing and booking.
+- Serve as a virtual gateway to the Masala Marvel restaurant.
 
-Throughout the development of this project, our team uncovered fascinating details about culinary food, realizing the diverse and delightful world of flavors that exists in our Indian Cuisine. The primary objectives of the project were achieved through the following features:
+This project leverages **Vue.js** for a dynamic front-end experience, ensuring smooth navigation and interactivity.
 
-- Home Page: A welcoming entry point to the website.
-- User-Friendly Navigation Bar: Ensures easy exploration of the site.
-- Details and Images of Indian Cuisines: Showcasing Masala Marvel's unique offerings.
-- Information about Masala Marvel: Providing insights into the restaurant.
-- Contact Details: Making it easy for users to get in touch.
-- Online Booking Feature: Allowing users to conveniently make reservations.
+---
 
-## Achievements
+## Key Features
 
-Our successful implementation affirms that we have achieved our objectives. The Masala Marvel website serves diverse purposes, catering to various dining needs. Key features include:
+### Home Page
+- A visually appealing landing page introducing the restaurant.
 
-- Mobile-Friendly Version: Ensures accessibility for users on the go.
-- Online Reservations: Users can book tables and explore available dining packages.
-- Visual Feast in the Menu: Allowing users to preview the restaurant's atmosphere and signature dishes.
+### User-Friendly Navigation
+- Easy-to-use navigation bar to explore different sections of the website.
 
+### Indian Cuisine Showcase
+- A dedicated section featuring rich details and captivating images of Masala Marvel’s dishes.
 
+### Restaurant Information
+- Insights about Masala Marvel, including its story and vision.
 
-Feel free to contribute or provide feedback!
+### Online Booking
+- Users can conveniently book tables and explore dining packages.
+
+### Contact Section
+- Provides essential contact information to connect with the restaurant.
+
+### Mobile-Friendly Design
+- Fully responsive layout for an optimal experience on all devices.
+
+---
+
+## Technologies Used
+- **Vue.js**: For building a dynamic, component-based front-end.
+- **HTML5**: For structuring content.
+- **CSS3**: For styling and ensuring responsiveness.
+- **JavaScript**: For enhancing interactivity and functionality.
+
+---
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dhanush-S-Gowda/masala-marvel-restaurant-website.git
+   ```
+2. Navigate to the project directory:
+  ```bash
+  cd masala-marvel
+  ```
+3. Install dependencies:
+  ```bash
+  npm install
+  ```
+4. Start the development server:
+  ```bash
+  npm run serve
+  ```
+5. Access the website at http://localhost:8080.
