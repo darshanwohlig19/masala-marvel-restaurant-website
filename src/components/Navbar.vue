@@ -27,7 +27,7 @@
     }
 
     const redirect = () => {
-        window.location.href = '/form';
+        window.location.href = 'masala-marvel-restaurant-website/form';
     }
 </script>
 
