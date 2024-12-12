@@ -19,15 +19,16 @@
 
 <script setup>
     import { ref } from 'vue';
-     import { RouterLink } from 'vue-router';
+     import { RouterLink, useRouter } from 'vue-router';
     const navLinksVisible = ref(false);
+    const router = useRouter();
 
     const toggleNavLinks = () => {
         navLinksVisible.value = !navLinksVisible.value;
     }
 
     const redirect = () => {
-        window.location.href = 'masala-marvel-restaurant-website/form';
+          router.push('/form');
     }
 </script>
 
