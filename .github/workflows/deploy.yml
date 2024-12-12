@@ -1,4 +1,4 @@
-name: Deploy masala-marvel-restaurant-website
+name: Deploy Vue.js Project
 
 on:
   push:
